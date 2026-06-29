@@ -50,7 +50,7 @@ Tajikistan • Kyrgyzstan • Russia • Afghanistan • Kazakhstan
 | Delivered | 47.37% |
 
 ## 📷 Dashboard Preview
-![Imzo Dashboard](assets/screenshot.png)
+https://github.com/Dinara-dev/imzo-sales-logistics-analytics/blob/main/photo_2026-06-29_19-01-22.jpg
 
 ## 🗂️ Dataset
 Real business data anonymized for portfolio purposes.
